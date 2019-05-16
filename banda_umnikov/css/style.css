@@ -1,22 +1,19 @@
 @font-face {
   font-family: 'Proxima Nova bold';
   src: url('../fonts/proximanova-bold.woff2') format('woff2');
-  font-weight: 700;
- 
+  font-weight: 700; 
 }
 
 @font-face {
   font-family: 'Proxima Nova regular';
   src: url('../fonts/proximanova-regular.woff2') format('woff2');
-  font-weight: 400;
- 
+  font-weight: 400; 
 }
 
 @font-face {
   font-family: 'Umnik bold';
   src: url('../fonts/umnik-bold.woff2') format('woff2');
-  font-weight: 700;
-  
+  font-weight: 700;  
 }
 
 body,
@@ -28,7 +25,6 @@ img,
 * {
   margin: 0;
   padding: 0;
-
 }
 
 * {
@@ -59,7 +55,6 @@ img {
 .banner-list {
   max-width: 1156px;
   margin: auto;
-
 }
 
 .banner-list__header {
@@ -167,7 +162,7 @@ img {
   cursor: pointer;
   width: 142px;
   height: 43px;
-  padding: 7px;
+  padding: 10px;
   color: #ffffff;
   background-color: #ff0072;
   box-shadow: 2px 1px 1px rgba(0, 0, 0, 0.44);
